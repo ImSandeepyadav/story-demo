@@ -1,2 +1,2 @@
-# story-demo
+# story-project
 story
